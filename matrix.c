@@ -5,10 +5,10 @@ int main(void)
 {
   
     long n;
-    printf("Let's make Mario's double pyramid!\n");
+    printf("Let's make Matrix!\n");
     do
     {
-        n = get_long("hieght: ");
+        n = get_long("size: ");
     }
   while (n < 0 || n > 200);
     for (long i = 0; i < n; i++)
