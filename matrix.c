@@ -3,7 +3,7 @@
 
 int main(void)
 {
-  
+  //hi i am aditya lets update it
     long n;
     printf("Let's make Matrix!\n");
     do
